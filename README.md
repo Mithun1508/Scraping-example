@@ -1,4 +1,4 @@
-![Weather script](https://github.com/Mithun1508/WeatherScraping/assets/93249038/4e35bf9e-8ab5-40a5-ac91-a562bbc8959d)
+
 # Weather Scraping Project
 
 ## Overview
