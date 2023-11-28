@@ -17,7 +17,7 @@ This project is a weather scraping tool that allows you to retrieve real-time we
 
 ### Prerequisites
 
-- Python 3
+- Python 3.10
   
 - BeautifulSoup (for web scraping)
   
