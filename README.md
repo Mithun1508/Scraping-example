@@ -43,20 +43,34 @@ View the output in the specified format.
 Edit the config.json file to customize the following parameters:
 
 json
-Copy code
+
 {
+
   "locations": [
+  
     {
+    
       "name": "City1",
+      
       "url": "https://weather-source.com/city1"
+      
     },
+    
     {
+
+    
       "name": "City2",
+      
       "url": "https://weather-source.com/city2"
+      
     }
+    
     // Add more locations as needed
+    
   ],
+  
   "output_format": "json"
+  
 }
 
 ![Weather script](https://github.com/Mithun1508/WeatherScraping/assets/93249038/70579ecc-5a65-43fe-928a-d314e8dcfc3d)
